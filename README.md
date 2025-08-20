@@ -120,7 +120,8 @@ dependencies {
 ### 🎞️ 구현 영상 및 이미지 
 
 ### 일반 유저 회원 가입 
-![memberSign](https://github.com/user-attachments/assets/2d8f7294-27da-410f-816e-7fe237871cbc)
+![memberSign](https://github.com/user-attachments/assets/0e9b82b1-0501-4ca7-8212-a0aeb55dd535)
+
 
 ### 기업 유저 회원 가입 
 ![naverSign](https://github.com/user-attachments/assets/5dd86dab-1441-4f1d-91c4-39e93694572c)
@@ -138,7 +139,9 @@ dependencies {
 ![likeAndApply](https://github.com/user-attachments/assets/e751811c-ffc6-452a-9376-2fed158f9673)
 
 ### 전체적인 시현 영상 
-유튜브 링크 
+
+https://github.com/user-attachments/assets/60d26cde-9a86-460c-8fb9-ad792fd61848
+
 
 
 
